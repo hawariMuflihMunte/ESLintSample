@@ -1,0 +1,20 @@
+{
+  "name": "eslintsample",
+  "version": "1.0.0",
+  "description": "Dicoding exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hawariMuflihMunte/ESLintSample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hawariMuflihMunte/ESLintSample/issues"
+  },
+  "homepage": "https://github.com/hawariMuflihMunte/ESLintSample#readme"
+}
